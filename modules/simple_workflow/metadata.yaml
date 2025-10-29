@@ -100,4 +100,4 @@ spec:
       - storage.googleapis.com
     providerVersions:
       - source: hashicorp/google
-        version: ">= 3.53, < 5.0"
+        version: ">= 3.53, < 7"
